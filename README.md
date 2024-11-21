@@ -1,0 +1,1 @@
+the project aims to control jetbot using hand gestures recognition using mediapipe.if you don't have jetbot you can  see message passing on your friends pc by making connection using receiver,py and mediapipe.py file.    
